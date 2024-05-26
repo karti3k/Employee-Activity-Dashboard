@@ -1,0 +1,9 @@
+.main-content{
+    display: flex;
+    justify-content: space-between;
+}
+@media (max-width:480px) and (min-width: 320px) {
+    .main-content{
+        flex-direction: column-reverse;
+    }
+}
