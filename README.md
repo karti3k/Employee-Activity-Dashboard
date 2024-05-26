@@ -37,6 +37,7 @@ This project is part of an internship training program and focuses on developing
    Clone this repository to your local machine using the following command (using git bash if on windows): `git clone https://github.com/karti3k/Employee-dashboard.git`
 2. **Navigate to the Project Directory:**
    Open a terminal and navigate to the frontend-part directory inside the cloned repository: `cd Employee-dashboard/frontend-part`
+   If you are directly opening the folder with vs code then in its terminal instead of above step you just need to type `cd frontend-part`
 3. **Install Dependencies:**
 Make sure Node.js is installed on your machine (important). Then, install the project dependencies using npm: `npm install`
 4. **Start the Development Server:**
