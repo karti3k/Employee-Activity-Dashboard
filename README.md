@@ -39,7 +39,7 @@ This project is part of an internship training program and focuses on developing
    Open a terminal and navigate to the frontend-part directory inside the cloned repository: `cd Employee-dashboard/frontend-part`
    If you are directly opening the folder with vs code then in its terminal instead of above step you just need to type `cd frontend-part`
 3. **Install Dependencies:**
-Make sure Node.js is installed on your machine (important). Then, install the project dependencies using npm: `npm install`
+Make sure Node.js is installed on your machine (important). Then, install the project dependencies using npm: `npm install`. This step is super important as you won't be able to use `npm start` without `npm install` inside frontend-part folder.
 4. **Start the Development Server:**
 Once the dependencies are installed, start the development server by running (assuming above steps are successfully executed and you are inside frontend-part folder: `npm start
 `
